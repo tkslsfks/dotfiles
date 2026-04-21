@@ -1,0 +1,10 @@
+# Apps
+
+# xsetroot -solid "#e1dbd4" &
+# nvidia-settings --load-config-only &
+feh --bg-scale /home/tkslsfks/.config/openbox/wallpaper.png &
+telegram-desktop -startintray &
+systemctl --user import-environment &
+picom -b &
+[[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources &
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1

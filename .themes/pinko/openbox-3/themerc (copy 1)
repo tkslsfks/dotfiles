@@ -1,0 +1,97 @@
+!! Pink-esque Love (Recreated - Final version)
+!! Original by kiwisaotome
+
+!! [Menu Settings]
+menu.title.bg: Flat Solid
+menu.title.bg.color: #f8f7f3
+menu.title.text.color: #2d2d2d
+menu.title.text.justify: center
+
+menu.items.bg: Flat Solid
+menu.items.bg.color: #f8f7f3
+menu.items.text.color: #2d2d2d
+menu.items.disabled.text.color: #888888
+
+menu.items.active.bg: Flat Solid
+menu.items.active.bg.color: #d4cfbb
+menu.items.active.text.color: #2d2d2d
+
+!! [Active Window Settings - Focused]
+window.active.title.bg: Raised Solid
+window.active.title.bg.color: #ffb4ae
+
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #ffffff
+window.active.label.text.font: Sans Bold 9
+
+window.active.handle.bg: Raised Solid
+window.active.handle.bg.color: #ffffff
+
+window.active.grip.bg: Raised Solid
+window.active.grip.bg.color: #ffffff
+
+window.active.button.unpressed.bg: Parentrelative
+window.active.button.unpressed.image.color: #ffffff
+
+window.active.button.pressed.bg: Parentrelative
+window.active.button.pressed.image.color: #ffb4ae
+
+window.active.button.disabled.bg: Parentrelative
+window.active.button.disabled.image.color: #888888
+
+window.active.button.toggled.bg: Parentrelative
+window.active.button.toggled.image.color: #ffffff
+
+!! [Inactive Window Settings - Unfocused]
+window.inactive.title.bg: Raised Solid
+window.inactive.title.bg.color: #d99fcf
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #ffffff
+window.inactive.label.text.font: Sans Bold 9
+
+window.inactive.handle.bg: Raised Solid
+window.inactive.handle.bg.color: #ffffff
+
+window.inactive.grip.bg: Raised Solid
+window.inactive.grip.bg.color: #ffffff
+
+window.inactive.button.unpressed.bg: Parentrelative
+window.inactive.button.unpressed.image.color: #ffffff
+
+window.inactive.button.pressed.bg: Parentrelative
+window.inactive.button.pressed.image.color: #d99fcf
+
+window.inactive.button.disabled.bg: Parentrelative
+window.inactive.button.disabled.image.color: #888888
+
+window.inactive.button.toggled.bg: Parentrelative
+window.inactive.button.toggled.image.color: #ffffff
+
+!! [OSD Settings - Alt+Tab menu]
+osd.bg: Flat Solid
+osd.bg.color: #f8f7f3
+osd.label.bg: Flat Solid
+osd.label.bg.color: #f8f7f3
+osd.label.text.color: #2d2d2d
+osd.label.text.font: Sans 9
+
+osd.hilight.bg: Flat Solid
+osd.hilight.bg.color: #d4cfbb
+
+osd.unhilight.bg: Flat Solid
+osd.unhilight.bg.color: #888888
+
+!! [Border Settings - Keep the outer border dark!]
+border.width: 1
+border.color: #000000
+window.client.padding.width: 0
+window.handle.width: 2
+padding.width: 1
+menu.overlap: 15
+
+!! Font settings
+window.active.label.text.font:shadow=n
+window.inactive.label.text.font:shadow=n
+menu.items.font:shadow=n
+menu.title.text.font:shadow=n
